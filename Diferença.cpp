@@ -10,5 +10,5 @@ scanf("%d", &a);
              printf("INFORME O VALOR D ");
              scanf("%d", &d);
   diferenca = a*b - c*d;
-  printf("a diferença do produto A e B pelo produto de C e D eh %d", diferenca);       
+  printf("a diferenÃ§a do produto A e B pelo produto de C e D eh %d", diferenca);       
 }
